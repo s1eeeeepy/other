@@ -3,7 +3,7 @@ import lxml
 from bs4 import BeautifulSoup
 
 
-URL = "https://www.pohx.net/"
+URL = ""
 
 
 headers = {
